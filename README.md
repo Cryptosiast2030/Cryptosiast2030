@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Cryptosiast2030
+- 👋 Hi, I’m alexsev
 - 👀 I’m interested in DeFi and Crypto in general
 - 🌱 I’m currently learning how to trade Cryptos and Deploy Smart Contracts
 - 💞️ I’m looking to collaborate on NFT projects and Token deployment
